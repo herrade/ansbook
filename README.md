@@ -4,3 +4,5 @@
 
 
 DESIGN FIGMA : https://www.figma.com/file/tfqZ5SPugei5o4IrP2YYXC/herrade-team-library?node-id=0%3A1
+
+basic colors: #03363D , #174D4D, #FFFFFF, #F8F9F9
